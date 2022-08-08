@@ -47,6 +47,12 @@ Con esta segmetación se agrega un filtro
 
 ## Informa Mortalidad Infantil y Esperanza de Vida
 
+<ol>
+<li>Una Matriz donde podemos ver el detalle de habitantes por continente y país, promedio de Esperenza de Vida y promedio de Mortalidad Infantil</li>
+<li>Gráfico de dispersión, estudiando la relación entre la esperanza de vida y la mortalidad infantil</li>
+<li>Un Mapa donde se puede observar la distribución de países por continente, las burbujas están condicionas al tamaño de la Mortalidad Infantil</li>
+</ol>
+
 ![Mortalidad](https://user-images.githubusercontent.com/78714438/183323901-c8d1445b-70a7-4f77-a55b-c5fa9c3c2e59.png)
 
 En Power Query se genera una columna condicional en cada tabla para segmentar:
@@ -71,3 +77,12 @@ En Power Query se genera una columna condicional en cada tabla para segmentar:
 
 
 ![Esperanza de vida promedio](https://user-images.githubusercontent.com/78714438/183324178-fb946ad3-c66e-4f9d-81be-d1b5eb7fe4b0.png)
+
+
+Estos dos segmetaciones se usan como filtro sumadas a los dos anteriores.
+
+#### Algunas conclusiones que se pueden sacar de este informe
+
+<li>A menor esperanza de vida mayor es la mortalidad infantil, siendo el continente africano el más afectado por esta tendencia.</li>
+
+<li>Angola representa el país más afectado ya que su esperanza de vida promedio es de 56 años y una mortalidad infantil de 191 por cada 1000 decesos.</li>
