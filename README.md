@@ -22,3 +22,17 @@ En el segundo Mortalidad y Esperanza de Vida, se cargan 2 archivos .xlsx adicion
 ![Poblacion Mundial](https://user-images.githubusercontent.com/78714438/183322235-d212e2d8-85f7-4f64-9fc0-37b3dcd3756a.png)
 
 
+En Power Query se genera una columna condicional para segmentar los países en 4 categorías:
+
+<li>0 - 1M</li>
+<li>1M - 10M</li>
+<li>10M - 100M</li>
+<li>100M ></li>
+
+Con esta segmetación se agrega un filtro
+
+
+![PQ Cantidad Poblacion](https://user-images.githubusercontent.com/78714438/183322924-37b7b62c-4c2e-45bc-93d7-7e98eb1ff84a.png)
+
+
+
