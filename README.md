@@ -21,6 +21,13 @@ En el segundo Mortalidad y Esperanza de Vida, se cargan 2 archivos .xlsx adicion
 
 ## Informa Población Mundial
 
+<ol>
+<li>Un Treemap con la cantidad de habitantes por país</li>
+<li>Una Matriz donde podemos ver el detalle de habitantes por continente y país</li>
+<li>Un Mapa donde se puede observar la distribución de países por continente, las burbujas están condicionas al tamaño de la población de cada país </li>
+</ol>
+
+Adicional al filtro segmentado la cantidad de habitantes se agregó uno por continente
 
 ![Poblacion Mundial](https://user-images.githubusercontent.com/78714438/183322235-d212e2d8-85f7-4f64-9fc0-37b3dcd3756a.png)
 
