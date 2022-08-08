@@ -15,6 +15,9 @@ En el segundo Mortalidad y Esperanza de Vida, se cargan 2 archivos .xlsx adicion
 <li><strong>Infant+death+rate</strong>, contiene un listado de países y el promedio de muertes infantiles por cada 1000 decesos.</li>
 <li><strong>Life+expectancy</strong>, contiene un listado de países y el promedio de esperanza de vida.</li>
 
+## En el modelo de datos se generan las siguientes relaciones:
+
+![Modelo](https://user-images.githubusercontent.com/78714438/183323234-96476e3c-1479-4464-a92a-c42ee2ff55c1.png)
 
 ## Informa Población Mundial
 
