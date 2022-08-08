@@ -58,6 +58,7 @@ En Power Query se genera una columna condicional en cada tabla para segmentar:
 <li>25 0 50</li>
 <li>50 ></li>
 
+
 ![PQ Mortalidad](https://user-images.githubusercontent.com/78714438/183324096-59351366-7bb9-4727-8f09-4306672c1857.png)
 
 
@@ -67,5 +68,6 @@ En Power Query se genera una columna condicional en cada tabla para segmentar:
 <li>60 a 70</li>
 <li>70 a 80</li>
 <li>80 ></li>
+
 
 ![Esperanza de vida promedio](https://user-images.githubusercontent.com/78714438/183324178-fb946ad3-c66e-4f9d-81be-d1b5eb7fe4b0.png)
