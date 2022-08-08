@@ -86,3 +86,5 @@ Estos dos segmetaciones se usan como filtro sumadas a los dos anteriores.
 <li>A menor esperanza de vida mayor es la mortalidad infantil, siendo el continente africano el más afectado por esta tendencia.</li>
 
 <li>Angola representa el país más afectado ya que su esperanza de vida promedio es de 56 años y una mortalidad infantil de 191 por cada 1000 decesos.</li>
+
+<li>El país menos afectado en Monaco perteneciente al continente Europeo con una esperanza de vida promedio de 89 años y una mortalidad infantil de 5 por cada 1000 decesos.</li>
