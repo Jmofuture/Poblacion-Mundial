@@ -45,7 +45,7 @@ Con esta segmetación se agrega un filtro
 ![PQ Cantidad Poblacion](https://user-images.githubusercontent.com/78714438/183322924-37b7b62c-4c2e-45bc-93d7-7e98eb1ff84a.png)
 
 
-## Informa Mortalidad Infantil y Esperanza de Vida
+## Informe Mortalidad Infantil y Esperanza de Vida
 
 <ol>
 <li>Una Matriz donde podemos ver el detalle de habitantes por continente y país, promedio de Esperenza de Vida y promedio de Mortalidad Infantil</li>
