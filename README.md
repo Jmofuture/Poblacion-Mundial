@@ -19,7 +19,7 @@ En el segundo Mortalidad y Esperanza de Vida, se cargan 2 archivos .xlsx adicion
 
 ![Modelo](https://user-images.githubusercontent.com/78714438/183323234-96476e3c-1479-4464-a92a-c42ee2ff55c1.png)
 
-## Informa Población Mundial
+## Informe Población Mundial
 
 <ol>
 <li>Un Treemap con la cantidad de habitantes por país</li>
